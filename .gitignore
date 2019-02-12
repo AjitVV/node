@@ -1,0 +1,4 @@
+./.vs
+./.vscode
+./client/node_modules
+./FirstApp/node_modules
